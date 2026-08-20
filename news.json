@@ -5,15 +5,15 @@
     "description": "In a significant milestone, ISRO successfully launched its latest communication satellite from the Satish Dhawan Space Centre in Sriharikota on Saturday morning. The satellite, named GSAT-24, is designed to provide high-speed internet connectivity across remote and underserved regions of the country.\n\nThe launch was carried out using the GSLV Mk III rocket, which lifted off at 09:15 AM IST. ISRO officials confirmed that the satellite has been placed in the intended orbit and all systems are functioning normally.\n\nThis mission is expected to boost digital communication, support disaster management, and enhance connectivity for various sectors including education and healthcare.",
     "media": [
       {
-        "url": "https://raw.githubusercontent.com/your-username/your-repo/main/images/rocket1.jpg",
+        "url": "https://raw.githubusercontent.com/susankar-2003/khobor/refs/heads/main/photos/Untitled%20design%20(19).png",
         "type": "image"
       },
       {
-        "url": "https://raw.githubusercontent.com/your-username/your-repo/main/images/rocket2.jpg",
+        "url": "https://raw.githubusercontent.com/susankar-2003/khobor/refs/heads/main/photos/Untitled%20design%20(18).png",
         "type": "image"
       },
       {
-        "url": "https://res.cloudinary.com/first-account-name/video/upload/v12345/launch_clip.mp4",
+        "url": "https://res.cloudinary.com/djovc7inu/video/upload/v1787247775/PSLV_C59_LIFTOFF_ONBOARD_m1xsdl.webm",
         "type": "video"
       }
     ]
@@ -24,11 +24,11 @@
     "description": "The Ministry has officially sanctioned the budget for the upcoming 6-lane expressway project...",
     "media": [
       {
-        "url": "https://res.cloudinary.com/second-account-name/video/upload/v67890/highway_render.mp4",
+        "url": "https://res.cloudinary.com/djovc7inu/video/upload/v1787247775/PSLV_C59_LIFTOFF_ONBOARD_m1xsdl.webm",
         "type": "video"
       },
       {
-        "url": "https://firebasestorage.googleapis.com/v0/b/your-app.appspot.com/o/blueprint.jpg?alt=media",
+        "url": "https://raw.githubusercontent.com/susankar-2003/khobor/refs/heads/main/photos/Untitled%20design%20(18).png",
         "type": "image"
       }
     ]
