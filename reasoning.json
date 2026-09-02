@@ -1,0 +1,12 @@
+[
+  {
+    "id": "r_001",
+    "type": "mcq",
+    "category": "Reasoning",
+    "question": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+    "options": ["EPH", "EOG", "EPH", "EPI"],
+    "correct_answer": 1, 
+    "hint": "Think of the next letter in the alphabet.",
+    "solution": "C -> D, A -> B, T -> U. D -> E, O -> P, G -> H. Answer is EOG."
+  }
+]
