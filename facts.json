@@ -1,0 +1,10 @@
+[
+  {
+    "id": "f_001",
+    "type": "fact",
+    "category": "Science Fact",
+    "title": "The human body contains enough iron to make a 3-inch nail.",
+    "image_url": "https://res.cloudinary.com/.../blood.jpg",
+    "description": "Our bodies are made up of fascinating elements!"
+  }
+]
